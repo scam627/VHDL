@@ -46,7 +46,7 @@ begin
 			elsif (CLR = '1') then
 			Q  <= '0';
 			Qn <='1';
-	   end if;
+	  	end if;
 	end process;
 end Behavioral;
 
