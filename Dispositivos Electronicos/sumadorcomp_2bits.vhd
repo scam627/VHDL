@@ -1,3 +1,10 @@
+----------------------------------------------------------------------------------
+-- University: Universidad Tecnológica de Pereira
+-- Engineer: Stiven Cardona Monsalve
+-- 
+-- Create Date:    14:40:44 03/18/2017 
+-- Module Name:    Sumador completo de dos bits - Behavioral 
+----------------------------------------------------------------------------------
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 
