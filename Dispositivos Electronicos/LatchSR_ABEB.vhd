@@ -3,7 +3,7 @@
 -- Engineer: Stiven Cardona Monsalve
 -- 
 -- Create Date:    14:40:44 03/09/2017 
--- Module Name:    flipflopSR - Behavioral 
+-- Module Name:    LatchSR 
 ----------------------------------------------------------------------------------
 
 library IEEE;
