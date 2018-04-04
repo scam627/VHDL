@@ -6,3 +6,9 @@ En este repositorio podras encontrar una carpeta con dispositivos electronicos d
 * Dispositivos electronicos:
   
   Distintos tipos de lacth implementados de manera estructural
+
+## CARPETA 2:
+
+* Procesadores:
+
+  Dos versiones de un procesador con arquitectura SPACV8
